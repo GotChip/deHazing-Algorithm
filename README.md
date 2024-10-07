@@ -52,7 +52,7 @@ The evaluation of the dehazing algorithm is performed in the [deHaze_Eval.ipynb]
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/image-dehazing.git
+    git clone https://github.com/GotChip/deHazing-Algorithm.git
     cd image-dehazing
     ```
 
